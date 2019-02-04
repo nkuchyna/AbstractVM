@@ -13,4 +13,5 @@ BONUS PART
 
 ***Usage:*** 
 *./avm  <<-- for reading comands from standart input
+
 ./avm  [file ] <<-- reading comands from file*
