@@ -10,3 +10,7 @@ BONUS PART
 - diagnosing all errors in a file/standart_input without stopping at the first error encountered;
 - additional instructions (min, max, clear, compare, square);
 - lexer/parser couple, with clearly defined roles.
+
+***Usage:*** 
+*./avm  <<-- for reading comands from standart input
+./avm  [file ] <<-- reading comands from file*
