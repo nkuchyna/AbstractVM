@@ -11,7 +11,6 @@ BONUS PART
 - additional instructions (min, max, clear, compare, square);
 - lexer/parser couple, with clearly defined roles.
 
-***Usage:*** 
-*./avm  <<-- for reading comands from standart input
-
-./avm  [file ] <<-- reading comands from file*
+***Usage:***
+./avm  <<-- for reading comands from standart input
+./avm  [file ] <<-- reading comands from file
