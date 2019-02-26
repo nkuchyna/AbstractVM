@@ -1,5 +1,5 @@
 # AbstractVM
-Simple virtual machine that can interpret programs written in a basic assembly language | UNIT Factory
+Simple virtual machine that can interpret commands written in a basic assembly language | UNIT Factory
 ------------------------------------------------------------------------------------------------------
 - AbstractVM is a machine that uses a stack to compute simple arithmetic expressions. These arithmetic expressions are provided to the machine as basic assembly programs.
 -  Composed of a series of instructions, with one instruction per line (push, pop, dump, assert, sub, mul, div, mod, print, exit).
